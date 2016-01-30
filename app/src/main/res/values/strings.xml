@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MySplash</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+    <string name="txt1">Choose Your Delivery Location</string>
+    <string-array name="city">
+        <item>Bangalore</item>
+        <item>Mumbai</item>
+        <item>Chennai</item>
+        <item>Kolkata</item>
+    </string-array>
+    <string name="forward">Next page</string>
+    <string name="title_activity_home_page">HomePage</string>
+</resources>
